@@ -1,0 +1,3 @@
+lùi commit: git reset --hard HEAD~x: xóa commit mới, x số commit muốn lùi
+            git reset --soft HEAD~x: giữ commit mới và đưa vào trạng thái stage changes, x số commit muốn lùi
+            git reset --mixed HEAD~x: giữ commit mới và đưa vào trạng thái changes, x số commit muốn lùi
